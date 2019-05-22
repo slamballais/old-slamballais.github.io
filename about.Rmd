@@ -1,13 +1,26 @@
----
-title: "Who am I?"
----
 
-Something about my history and other tropes.
+\  \  
 
-## Current work
+Hi. My name is Sander Lamballais. 
 
-Probably will discuss my PhD.
+I'm a 20-something year old scientist with a passion for brain development, its antecedents and its consequences.
 
-## Freelance work
+\  \  
 
-Describe opportunities for freelance stuff.
+## PhD
+
+I am a PhD candidate (2016 - 2020) at the Erasmus MC, University Medical Center Rotterdam, Rotterdam, The Netherlands.
+
+My promotors are prof. dr. [M. Arfan Ikram](http://www.erasmus-epidemiology.nl/people/profile.php?id=46) and prof. dr. [Henning Tiemeier](https://www.hsph.harvard.edu/henning-tiemeier/).
+
+My co-promotors are dr. [Tonya White](https://www.researchgate.net/profile/Tonya_White2) and dr. [Hieab H. H. Adams](https://www.researchgate.net/profile/Hieab_Adams).
+
+\  \  
+
+My work focuses on the factors that shape cognitive function and brain structure across the lifespan.
+
+Most of my work is focused on the [Generation R birth cohort](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5233749/) and the [Rotterdam Study cohort](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5662692/).
+
+\  \  
+
+I am the lead programmer of the [QDECR package](https://github.com/slamballais/QDECR).
