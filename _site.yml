@@ -6,10 +6,12 @@ navbar:
   left:
     - text: "About"
       href: about.html
-    - text: "QDECR"
-      href: qdecr.html
-    - text: "Projects"
-      href: projects.html
+    - text: "Work"
+      menu:
+        - text: "QDECR"
+          href: https://github.com/slamballais/QDECR
+        - text: "Publications"
+          href: https://www.ncbi.nlm.nih.gov/pubmed/?term=Lamballais%20S[Author]&cauthor_uid=30739809
   right:
     - icon: fa-github
       href: https://github.com/slamballais 

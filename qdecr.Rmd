@@ -1,7 +1,0 @@
----
-title: "QDECR"
----
-
-This page will contain general information on QDECR and its inception.
-
-It will also contain a link to the R Bookdown manual of QDECR.
