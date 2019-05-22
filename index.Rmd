@@ -2,4 +2,4 @@
 title: "Welcome to slamballais.github.com!"
 ---
 
-Still working on getting this clean :) Updates on QDECR following soon!
+<div><img src="cover.png" width="100%" align="center"></div>
