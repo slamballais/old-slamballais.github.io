@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome to slamballais.github.com!"
 ---
 
-You're up and running!
+Still working on getting this clean :) Updates on QDECR following soon!

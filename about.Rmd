@@ -1,7 +1,13 @@
 ---
-title: "About me"
+title: "Who am I?"
 ---
 
-## Header
+Something about my history and other tropes.
 
-Say more about you here.
+## Current work
+
+Probably will discuss my PhD.
+
+## Freelance work
+
+Describe opportunities for freelance stuff.
