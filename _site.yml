@@ -1,7 +1,7 @@
 name: "Sander Lamballais"
 output_dir: "."
 navbar:
-  title: "Page for slamballais"
+  title: "Sander Lamballais"
   type: inverse
   left:
     - text: "Home"
