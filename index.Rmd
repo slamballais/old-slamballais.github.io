@@ -1,5 +1,5 @@
 ---
-title: "Welcome to slamballais.github.com!"
+title: "Personal website of Sander Lamballais"
 ---
 
 <div><img src="cover.png" width="100%" align="center"></div>
