@@ -14,9 +14,11 @@ navbar:
       icon: fa-file-pdf-o
       href: cv.html
   right:
-    - text: "GitHub"
-      icon: fa-github
+    - icon: fa-github
       href: https://github.com/slamballais 
+    - icon: fa-twitter
+      href: https://twitter.com/slamballais
+
 output:
   html_document:
     theme: cosmo
